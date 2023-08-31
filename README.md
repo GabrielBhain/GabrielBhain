@@ -6,6 +6,7 @@ Sou estudante de Engenharia da Computação na
 UPE e Análise e Desenvolvimento de Sistemas
 na UNINASSAU/Embarque Digital.
 Me formei no CCAA e sou fluente em inglês.
+Estou disponível para contato caso tenha interesse este é meu LinkedIn:
 
 
 ![Gabriel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)
