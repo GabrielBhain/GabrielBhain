@@ -1,13 +1,12 @@
 ### 🕵🏻 Olá! Eu me chamo Gabriel Ferreira e sou um Dev Full Stack. 🕵🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-ferreira-aa2522232/)
-
 Sou estudante de Engenharia da Computação na
 UPE e Análise e Desenvolvimento de Sistemas
 na UNINASSAU/Embarque Digital.
 Me formei no CCAA e sou fluente em inglês.
 Estou disponível para contato caso tenha interesse este é meu LinkedIn:
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-ferreira-aa2522232/)
 
 ![Gabriel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)
 
