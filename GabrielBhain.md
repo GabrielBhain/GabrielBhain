@@ -1,4 +1,4 @@
-### 🕵🏻 Olá! Eu me chamo Gabriel Ferreira e sou um Dev Full Stack. 🕵🏻
+# 🕵🏻 Olá! Eu me chamo Gabriel Ferreira e sou um Dev Full Stack. 🕵🏻
 
 Sou estudante de Engenharia da Computação na
 UPE e Análise e Desenvolvimento de Sistemas
@@ -21,5 +21,7 @@ Estou disponível para contato caso tenha interesse este é meu LinkedIn:
 <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><br/>
+
+![Gabriel Ferreira Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbhain&layout=compact&theme=transparent)
 
 
