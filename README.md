@@ -22,6 +22,6 @@ Estou disponível para contato caso tenha interesse este é meu LinkedIn:
 <img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><br/>
 
-![Gabriel Ferreira Top Langs](([https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbhain&layout=compact&theme=transparent))
+![Gabriel Ferreira Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbhain&layout=compact&theme=transparent))
 
 
