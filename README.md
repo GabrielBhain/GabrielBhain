@@ -1,16 +1,14 @@
-# 🕵🏻 Olá! Eu me chamo Gabriel Ferreira e sou um Dev Full Stack. 🕵🏻
+# 🕵🏻 Hello, World! My name is Gabriel Ferreira and I'm a Fulls Stack Developer. 🕵🏻
 
-Sou estudante de Engenharia da Computação na
-UPE e Análise e Desenvolvimento de Sistemas
-na UNINASSAU/Embarque Digital.
-Me formei no CCAA e sou fluente em inglês.
-Estou disponível para contato caso tenha interesse este é meu LinkedIn:
+I am a Computer Engineering student at UPE and I'm also studying Analysis and Systems Development at UNINASSAU/Embarque Digital. 
+I graduated from CCAA, and I am fluent in English. 
+I am available for contact if you are interested; here is my LinkedIn profile: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-ferreira-aa2522232/)
 
 ![Gabriel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)
 
-### Tecnologias do meu dia a dia:
+### Technologies in my daily life.:
 
 <div style="display: inline-block;"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
