@@ -6,7 +6,7 @@ I graduated from CCAA, and I am fluent in English.
 <br/>
 I am available for contact if you are interested; here is my LinkedIn profile: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-ferreira-aa2522232/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-aa2522232/)
 
 ![Gabriel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)
 
