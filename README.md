@@ -2,7 +2,7 @@
 
 👨🏻‍🎓 I am a Computer Engineering student at UPE and I'm also studying Analysis and Systems Development at UNINASSAU/Embarque Digital. 
 <br/>
-🌐 I graduated from CCAA, and I am fluent in English. 
+🌐 I have graduated from CCAA, and I'm fluent in English.
 <br/>
 🤝🏻 I am available for contact if you are interested; here is my LinkedIn profile: 
 
