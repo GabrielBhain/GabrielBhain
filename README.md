@@ -1,10 +1,10 @@
 ## 🕵🏻 Hello, World! My name is Gabriel Ferreira and I'm a Full Stack Developer. 🕵🏻
 
-👨🏻‍🎓 I am a Computer Engineering student at UPE and I'm also studying Analysis and Systems Development at UNINASSAU/Embarque Digital. 
+👨🏻‍🎓 I'm a Computer Engineering student at UPE and I'm also studying Analysis and Systems Development at UNINASSAU/Embarque Digital. 
 <br/>
 🌐 I have graduated from CCAA, and I'm fluent in English.
 <br/>
-🤝🏻 I am available for contact if you are interested; here is my LinkedIn profile: 
+🤝🏻 Available for contact if you are interested; here is my LinkedIn profile: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-aa2522232/)
 
