@@ -1,16 +1,16 @@
-## 🕵🏻 Hello, World! My name is Gabriel Ferreira and I'm a Full Stack Developer. 🕵🏻
+## 🕵🏻 Olá, Mundo! Meu nome é Gabriel Ferreira e sou um Desenvolvedor Full Stack. 🕵🏻
 
-👨🏻‍🎓 I'm a Computer Engineering student at UPE and I'm also studying Analysis and Systems Development at UNINASSAU/Embarque Digital. 
+👨🏻‍🎓 Sou estudante de Engenharia da Computação na UPE e também estudo Análise e Desenvolvimento de Sistemas na UNINASSAU/Embarque Digital.
 <br/>
-🌐 I have graduated from CCAA, and I'm fluent in English.
+🌐 Sou formado pela CCAA e sou fluente em inglês.
 <br/>
-🤝🏻 Available for contact if you are interested; here is my LinkedIn profile: 
+🤝🏻 Disponível para contato se estiver interessado; aqui está o link do meu perfil no LinkedIn:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-aa2522232/)
 
 ---
 
-## 🧠💡 Technologies in My Daily Life: 
+## 🧠💡 Tecnologias no Meu Dia a Dia:
 
 <div style="display: inline-block;">
     <a href="#"><img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -28,9 +28,8 @@
 
 ---
 
-## My GitHub Stats:
+## Minhas Estatísticas no GitHub:
 
-[![Gabriel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)](https://github.com/GabrielBhain)
+[![Estatísticas do GitHub de Gabriel Ferreira](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)](https://github.com/GabrielBhain)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=donut-vertical&theme=transparent)](https://github.com/GabrielBhain)
-
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=donut-vertical&theme=transparent)](https://github.com/GabrielBhain)
