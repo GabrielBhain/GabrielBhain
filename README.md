@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=1000&color=1877F2&background=00CFFF00&multiline=true&random=false&width=435&height=100&lines=%F0%9F%95%B5%F0%9F%8F%BB+Ol%C3%A1%2C+Mundo!;Meu+nome+%C3%A9+Gabriel+Ferreira.;Sou+um+Desenvolvedor+Full+Stack.+%F0%9F%95%B5%F0%9F%8F%BB)](https://git.io/typing-svg)
 --
 
-👨🏻‍🎓 Sou estudante de Engenharia da Computação na UPE e também estudo Análise e Desenvolvimento de Sistemas na UNINASSAU/Embarque Digital.
+👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU/Embarque Digital.
 <br/>
 🌐 Sou formado pela CCAA e sou fluente em inglês.
 <br/>
