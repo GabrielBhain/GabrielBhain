@@ -54,15 +54,13 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 
 ## 📊 **Minhas Estatísticas no GitHub**
 
-<p align="start">
-        <a href="https://github.com/GabrielBhain">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=donut-vertical&theme=transparent" alt="Principais Linguagens" />
-    </a>
-    <a href="https://github.com/GabrielBhain">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de Gabriel Ferreira" />
-    </a>
-    <br/>
-
+<div align="center">
+  <a href="https://github.com/GabrielBhain">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
+  </a>
+  <a href="https://github.com/GabrielBhain">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&langs_count=8&theme=transparent" alt="Principais Linguagens" />
+  </a>
 </div>
 
 ---
