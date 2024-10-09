@@ -75,7 +75,7 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&border_radius=0.5&border_color=3D444D&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&border_radius=0.5&border_color=3D444D&langs_count=8&theme=algolia" alt="Principais Linguagens" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&border_radius=0.5&border_color=3D444D&langs_count=9&theme=algolia" alt="Principais Linguagens" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1877F2&fontAlign=50&fontAlignY=35&textBg=false&fontSize=50&fontColor=FFFFFF&section=footer"/>
