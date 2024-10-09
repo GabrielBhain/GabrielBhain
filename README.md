@@ -1,4 +1,4 @@
-<div align="start">
+<div align="center">
   <a href="https://git.io/typing-svg" style="text-decoration: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=1000&pause=1000&color=1877F2&background=00CFFF00&multiline=true&width=435&height=100&lines=%F0%9F%95%B5%F0%9F%8F%BB+Ol%C3%A1%2C+Mundo!;Eu+sou+Gabriel+Ferreira!;Desenvolvedor+Full+Stack.+%F0%9F%95%B5%F0%9F%8F%BB" alt="Typing SVG" /></a>
 </div>
 
@@ -22,7 +22,7 @@
 
 Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto diversificado de ferramentas e linguagens, cada uma contribuindo para soluções únicas e eficientes:
 
-<div align="start">
+<div align="center">
   <table>
     <tr>
       <td>
@@ -72,7 +72,7 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 
 ## 📊 **Minhas Estatísticas no GitHub**
 
-<div align="start">
+<div align="center">
   <a href="https://github.com/GabrielBhain" style="text-decoration: none;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
   </a>
