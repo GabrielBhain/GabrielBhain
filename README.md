@@ -18,7 +18,7 @@
 Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto diversificado de ferramentas e linguagens, cada uma contribuindo para soluções únicas e eficientes:
 
 ### **Front-end**
-<p align="center">
+<p align="start">
   <img title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />
   <img title="TypeScript" src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" />
   <img title="Next.js" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.js" />
@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 </p>
 
 ### **Back-end**
-<p align="center">
+<p align="start">
   <img title="Java" src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" />
   <img title="Spring" src="https://go-skill-icons.vercel.app/api/icons?i=spring" alt="Spring" />
   <img title=".NET" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" alt=".NET" />
@@ -35,14 +35,14 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 </p>
 
 ### **Banco de Dados**
-<p align="center">
+<p align="start">
   <img title="SQL Server" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server" />
   <img title="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" />
   <img title="MongoDB" src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="MongoDB" />
 </p>
 
 ### **DevOps e Ferramentas**
-<p align="center">
+<p align="start">
   <img title="Docker" src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" />
   <img title="Azure" src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="Azure" />
   <img title="Azure DevOps" src="https://go-skill-icons.vercel.app/api/icons?i=azuredevops" alt="Azure DevOps" />
@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 
 ## 📊 **Minhas Estatísticas no GitHub**
 
-<div align="center">
+<p align="start">
         <a href="https://github.com/GabrielBhain">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=donut-vertical&theme=transparent" alt="Principais Linguagens" />
     </a>
@@ -66,5 +66,3 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 </div>
 
 ---
-
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e, se encontrar algo interessante, não hesite em deixar estrelas ou entrar em contato. Adoro aprender e trocar experiências com outros desenvolvedores!
