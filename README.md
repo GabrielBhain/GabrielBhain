@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1877F2&text=Olá%20Mundo!&fontAlign=50&fontAlignY=35&textBg=false&fontSize=50&fontColor=FFFFFF"/>
 <div align="center">
-  <a href="https://git.io/typing-svg" style="text-decoration: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=1000&pause=1000&color=1877F2&background=00CFFF00&multiline=true&width=435&height=100&lines=%F0%9F%95%B5%F0%9F%8F%BB+Ol%C3%A1%2C+Mundo!;Eu+sou+Gabriel+Ferreira!;Desenvolvedor+Full+Stack.+%F0%9F%95%B5%F0%9F%8F%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" style="text-decoration: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=26&duration=1000&pause=3000&color=1877F2&background=00CFFF00&multiline=false&width=700&height=50&lines=Eu+sou+Gabriel+Ferreira.+Um+Desenvolvedor+Full+Stack!" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -73,12 +74,10 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 ## 📊 **Minhas Estatísticas Públicas no GitHub**
 
 <div align="center">
-  <a href="https://github.com/GabrielBhain" style="text-decoration: none;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
-  </a>
-  <a href="https://github.com/GabrielBhain" style="text-decoration: none;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&langs_count=8&theme=transparent" alt="Principais Linguagens" />
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=algolia&include_all_commits=true&border_radius=0.5&border_color=3D444D&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&border_radius=0.5&border_color=3D444D&langs_count=8&theme=algolia" alt="Principais Linguagens" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1877F2&fontAlign=50&fontAlignY=35&textBg=false&fontSize=50&fontColor=FFFFFF&section=footer"/>
 
 ---
