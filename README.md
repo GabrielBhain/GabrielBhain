@@ -1,42 +1,70 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=1000&color=1877F2&background=00CFFF00&multiline=true&random=false&width=435&height=100&lines=%F0%9F%95%B5%F0%9F%8F%BB+Ol%C3%A1%2C+Mundo!;Meu+nome+%C3%A9+Gabriel+Ferreira.;Sou+um+Desenvolvedor+Full+Stack.+%F0%9F%95%B5%F0%9F%8F%BB)](https://git.io/typing-svg)
---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=1000&pause=1000&color=1877F2&background=00CFFF00&multiline=true&width=435&height=100&lines=%F0%9F%95%B5%F0%9F%8F%BB+Ol%C3%A1%2C+Mundo!;Eu+sou+Gabriel+Ferreira!;Desenvolvedor+Full+Stack+%F0%9F%95%B5%F0%9F%8F%BB)](https://git.io/typing-svg)
+---
 
-👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU/Embarque Digital.
-<br/>
-🖥️ Atualmente sou Desenvolvedor Full Stack na Avanade Brasil
-<br/>
-🌐 Sou formado pela CCAA e sou fluente em inglês.
-<br/>
-🤝🏻 Disponível para contato se estiver interessado; aqui está o link do meu perfil no LinkedIn:
+👨🏻‍🎓 **Formação Acadêmica**: Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU/Embarque Digital. A minha paixão por aprendizado constante e inovação me impulsiona a sempre buscar novos desafios e evoluir como profissional.
+
+🖥️ **Carreira Profissional**: Trabalho como Desenvolvedor Full Stack na Avanade Brasil, onde participo de projetos inovadores, criando soluções que realmente fazem diferença para as empresas e para os usuários.
+
+🌐 **Línguas**: Sou fluente em inglês, certificado pelo CCAA, e estou sempre pronto para me conectar globalmente.
+
+🤝🏻 **Vamos nos conectar?** Fique à vontade para visitar meu LinkedIn e entrar em contato! Estou sempre aberto a novas oportunidades e colaborações. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-aa2522232/)
 
 ---
 
-## 🧠💡 Tecnologias no Meu Dia a Dia:
+## 🧠💡 **Tecnologias no Meu Dia a Dia**
 
-<div style="display: inline-block;">
-    <a href="#"><img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-    <a href="#"><img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
-    <a href="#"><img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
-    <a href="#"><img align="center" alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-    <a href="#"><img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
-</div>
-<br/>
+Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto diversificado de ferramentas e linguagens, cada uma contribuindo para soluções únicas e eficientes:
+
+### **Front-end**
+<p align="center">
+  <img title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />
+  <img title="TypeScript" src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" />
+  <img title="Next.js" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.js" />
+  <img title="NestJS" src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" alt="NestJS" />
+</p>
+
+### **Back-end**
+<p align="center">
+  <img title="Java" src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" />
+  <img title="Spring" src="https://go-skill-icons.vercel.app/api/icons?i=spring" alt="Spring" />
+  <img title=".NET" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" alt=".NET" />
+  <img title="Node.js" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="Node.js" />
+  <img title="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" />
+</p>
+
+### **Banco de Dados**
+<p align="center">
+  <img title="SQL Server" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server" />
+  <img title="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" />
+  <img title="MongoDB" src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="MongoDB" />
+</p>
+
+### **DevOps e Ferramentas**
+<p align="center">
+  <img title="Docker" src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" />
+  <img title="Azure" src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="Azure" />
+  <img title="Azure DevOps" src="https://go-skill-icons.vercel.app/api/icons?i=azuredevops" alt="Azure DevOps" />
+  <img title="Git" src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" />
+  <img title="Jira" src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="Jira" />
+</p>
 
 ---
 
-## Minhas Estatísticas no GitHub:
+## 📊 **Minhas Estatísticas no GitHub**
 
-[![Estatísticas do GitHub de Gabriel Ferreira](https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent)](https://github.com/GabrielBhain)
+<div align="center">
+        <a href="https://github.com/GabrielBhain">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=donut-vertical&theme=transparent" alt="Principais Linguagens" />
+    </a>
+    <a href="https://github.com/GabrielBhain">
+        <img src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de Gabriel Ferreira" />
+    </a>
+    <br/>
 
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=donut-vertical&theme=transparent)](https://github.com/GabrielBhain)
+</div>
+
+---
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e, se encontrar algo interessante, não hesite em deixar estrelas ou entrar em contato. Adoro aprender e trocar experiências com outros desenvolvedores!
