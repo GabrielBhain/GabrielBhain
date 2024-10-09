@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/in/gabriel-a-ferreira/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn">
 </a>
-<a href="mailto:gabrielmn536@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail">
-</a>
 
 ---
 
@@ -77,10 +74,10 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 
 <div align="start">
   <a href="https://github.com/GabrielBhain" style="text-decoration: none;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBhain&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Ferreira" />
   </a>
   <a href="https://github.com/GabrielBhain" style="text-decoration: none;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&langs_count=8&theme=transparent" alt="Principais Linguagens" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBhain&layout=compact&langs_count=8&theme=transparent" alt="Principais Linguagens" />
   </a>
 </div>
 
