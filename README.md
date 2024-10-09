@@ -4,9 +4,9 @@
 
 ---
 
-👨🏻‍🎓 **Formação Acadêmica**: Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU/Embarque Digital. A minha paixão por aprendizado constante e inovação me impulsiona a sempre buscar novos desafios e evoluir como profissional.
+👨🏻‍🎓 **Formação Acadêmica**: Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNINASSAU/Embarque Digital.
 
-🖥️ **Carreira Profissional**: Trabalho como Desenvolvedor Full Stack na Avanade Brasil, onde participo de projetos inovadores, criando soluções que realmente fazem diferença para as empresas e para os usuários.
+🖥️ **Carreira Profissional**: Trabalho como Desenvolvedor Full Stack na Avanade Brasil, onde participo de projetos inovadores, criando soluções que realmente fazem diferença para as empresas, clientes e usuários.
 
 🌐 **Línguas**: Sou fluente em inglês, certificado pelo CCAA, e estou sempre pronto para me conectar globalmente.
 
@@ -70,7 +70,7 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
 
 ---
 
-## 📊 **Minhas Estatísticas no GitHub**
+## 📊 **Minhas Estatísticas Públicas no GitHub**
 
 <div align="center">
   <a href="https://github.com/GabrielBhain" style="text-decoration: none;">
