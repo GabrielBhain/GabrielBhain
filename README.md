@@ -32,7 +32,6 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
           <img title="React" src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" />
           <img title="TypeScript" src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="TypeScript" />
           <img title="Next.js" src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.js" />
-          <img title="NestJS" src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" alt="NestJS" />
         </p>
       </td>
       <td>
@@ -41,6 +40,7 @@ Sou apaixonado por tecnologia e, no meu dia a dia, trabalho com um conjunto dive
           <img title="Java" src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" />
           <img title="Spring" src="https://go-skill-icons.vercel.app/api/icons?i=spring" alt="Spring" />
           <img title=".NET" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" alt=".NET" />
+          <img title="Nest.js" src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" alt="NestJS" />
           <img title="Node.js" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="Node.js" />
           <img title="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" />
         </p>
